@@ -48,3 +48,11 @@ body{
 .logo img {
     width: 80px;
 }
+
+.livro {
+    background-color: #121212 ;
+    border-radius: 8px;
+    display: flex;
+    justify-content: space-between;
+    flex-direction: column;
+}
